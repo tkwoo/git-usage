@@ -11,6 +11,13 @@ Agent 기반으로 Git과 Google Workspace CLI를 함께 사용하는 실습 강
 - [docs/03_gws_calendar_drive.md](./docs/03_gws_calendar_drive.md): gws CLI로 Calendar와 Drive 자동화하기
 - [docs/04_integrated_practice.md](./docs/04_integrated_practice.md): GitHub + Skill + gws 통합 실습
 - [slides/index.html](./slides/index.html): HTML 발표자료
+- [docs/slides/index.html](./docs/slides/index.html): GitHub Pages용 HTML 발표자료
+
+## GitHub Pages
+
+```text
+https://tkwoo.github.io/git-usage/slides/
+```
 
 ## 로컬 슬라이드 실행
 
