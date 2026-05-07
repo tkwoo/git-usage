@@ -16,7 +16,6 @@ Agent 기반으로 작업하기 위한 Git, GWS 사용 방법
 ## 발표자료
 
 - HTML 슬라이드: [../slides/index.html](../slides/index.html)
-- GitHub Pages용 슬라이드: [./slides/index.html](./slides/index.html)
 
 ## 운영 방식
 
