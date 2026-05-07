@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+.env
+.env.*
+credentials.json
+token.json
+node_modules/
+dist/
+tmp/
+test-results/
